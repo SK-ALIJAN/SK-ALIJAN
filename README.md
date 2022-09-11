@@ -27,15 +27,15 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
  
 `💫 GitHub Analytics:`
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-alijan&show_icons=true&locale=en&layout=compact" alt="sk-alijan" /></p>
+<br>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" /></p>
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" /></p>
-
-<br><br>
+<br>
 
 `🤝 Connect with me:`
-<p align="left">
+ &nbsp; &nbsp; &nbsp; <p align="left">
 <a href="https://twitter.com/alijan8695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alijan8695" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alijan786" height="30" width="40" /></a>
 <a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alijan8695" height="30" width="40" /></a>
