@@ -28,9 +28,11 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 `💫 GitHub Analytics:`
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-alijan&show_icons=true&locale=en&layout=compact" alt="sk-alijan" /></p> <br> <br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" /> 
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" />
+</p>
 
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" /></p>
 
 <br>
 
