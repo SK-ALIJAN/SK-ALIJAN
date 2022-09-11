@@ -29,7 +29,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-alijan&show_icons=true&locale=en&layout=compact" alt="sk-alijan" />  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" />
+<img  src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" />
 
