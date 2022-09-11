@@ -30,8 +30,9 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" /></p>
 
+<br><br>
 
 `🤝 Connect with me:`
 <p align="left">
