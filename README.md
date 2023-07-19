@@ -1,5 +1,7 @@
 <img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/420d3448-f343-42bb-92d4-fd06500a649c"/>
 <p></p>
+
+<br>
 `🚀 About Me:`
 - 🔭 I’m currently working on **Full stack web devlopment**
 - 👀 I’m interested in full stack web devlopment
