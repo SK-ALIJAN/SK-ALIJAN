@@ -38,23 +38,19 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
  
 `💫 GitHub Analytics:`
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-alijan&show_icons=true&locale=en&layout=compact" alt="sk-alijan" />  
-
-<img  src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-alijan&show_icons=true&locale=en&layout=compact" alt="sk-alijan" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan" />
 </p>
 
 <br>
 
 `🤝 Connect with me:`
  &nbsp; &nbsp; &nbsp;
-
-<a href="https://twitter.com/alijan8695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alijan8695" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alijan786" height="30" width="40" /></a>
-<a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alijan8695" height="30" width="40" /></a>
-<a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SK_ALIJAN123" height="30" width="40" /></a>
+  <a href="https://twitter.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=5MQ0gPAYYx7a&format=png" alt="alijan8695" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="alijan786" height="40" width="40" /></a>
+<a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="40" width="40" /></a>
+<a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=TEYr8ETaIfBJ&format=png" alt="SK_ALIJAN123" height="40" width="40" /></a>
 
  
 
