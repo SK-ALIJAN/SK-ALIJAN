@@ -9,10 +9,10 @@
 - 🤔 I'm looking for JOB
 - 😃 Pronouns: he/his
 - 📫 How to reach me
-  <a href="https://twitter.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=5MQ0gPAYYx7a&format=png" alt="alijan8695" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="alijan786" height="30" width="40" /></a>
-<a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="30" width="40" /></a>
-<a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=TEYr8ETaIfBJ&format=png" alt="SK_ALIJAN123" height="30" width="40" /></a>
+  <a href="https://twitter.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=5MQ0gPAYYx7a&format=png" alt="alijan8695" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="alijan786" height="40" width="40" /></a>
+<a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="40" width="40" /></a>
+<a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=TEYr8ETaIfBJ&format=png" alt="SK_ALIJAN123" height="40" width="40" /></a>
 
 - 😃Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 
@@ -24,6 +24,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 
 `💻 Languages and Tools:`
+<p>
   <img src="https://img.icons8.com/?size=1x&id=20909&format=png" height="40" width="40" alt="HTML"/>  &nbsp; &nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=1x&id=21278&format=png" height="40" width="40" alt="CSS"/>   &nbsp; &nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=1x&id=108784&format=png" height="40" width="40" alt="JavaScript"/>  &nbsp; &nbsp; &nbsp;
@@ -33,7 +34,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
   <img src="https://img.icons8.com/?size=1x&id=wpZmKzk11AzJ&format=png" height="40" width="40" alt="Typescript"/>  &nbsp; &nbsp; &nbsp;
   <img src="https://image.shutterstock.com/image-vector/node-js-260nw-1021480693.jpg" height="40" width="40" alt="Nodejs"/>  &nbsp; &nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=1x&id=74402&format=png" height="40" width="40" alt="Mongodb"/>  &nbsp; &nbsp; &nbsp;
-
+</p>
  
 `💫 GitHub Analytics:`
 <p>
