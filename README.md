@@ -24,14 +24,14 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 `💻 Languages and Tools:`
 <p align="center"> 
- <a href="#" target="blank"> <img src="https://img.icons8.com/?size=1x&id=20909&format=png" height="40" width="40" alt="HTML"/> </a>
- <a href="#" target="blank"> <img src="" height="40" width="40" alt=""/> </a>
- <a href="#" target="blank"> <img src="" height="40" width="40" alt=""/> </a>
- <a href="#" target="blank"> <img src="" height="40" width="40" alt=""/> </a>
- <a href="#" target="blank"> <img src="" height="40" width="40" alt=""/> </a>
- <a href="#" target="blank"> <img src="" height="40" width="40" alt=""/> </a>
- <a href="#" target="blank"> <img src="" height="40" width="40" alt=""/> </a>
- <a href="#" target="blank"> <img src="" height="40" width="40" alt=""/> </a>
+  <img src="https://img.icons8.com/?size=1x&id=20909&format=png" height="40" width="40" alt="HTML"/>  &nbsp; &nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=1x&id=21278&format=png" height="40" width="40" alt="CSS"/>   &nbsp; &nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=1x&id=108784&format=png" height="40" width="40" alt="JavaScript"/>  &nbsp; &nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=1x&id=24895&format=png" height="40" width="40" alt="Npm"/>  &nbsp; &nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=1x&id=p57acgidi9bj&format=png" height="40" width="40" alt="React"/>  &nbsp; &nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=1x&id=wpZmKzk11AzJ&format=png" height="40" width="40" alt="Typescript"/>  &nbsp; &nbsp; &nbsp;
+  <img src="https://image.shutterstock.com/image-vector/node-js-260nw-1021480693.jpg" height="40" width="40" alt="Nodejs"/>  &nbsp; &nbsp; &nbsp;
+  <img src="https://img.icons8.com/?size=1x&id=74402&format=png" height="40" width="40" alt="Mongodb"/>  &nbsp; &nbsp; &nbsp;
  </p>
  
 `💫 GitHub Analytics:`
