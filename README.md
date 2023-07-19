@@ -40,6 +40,15 @@
   <img src="https://image.shutterstock.com/image-vector/node-js-260nw-1021480693.jpg" height="40" width="40" alt="Nodejs"/>  &nbsp; &nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=1x&id=74402&format=png" height="40" width="40" alt="Mongodb"/>  &nbsp; &nbsp; &nbsp;
 </p>
+
+`💻 Things I code with :`
+<p>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-VS_CODE-teal" alt="Visual Studio Code - VS CODE">
+<img src="https://img.shields.io/badge/Git-red" alt="Git">
+<img src="https://img.shields.io/badge/Npm-yellow" alt="Npm">
+<img src="https://img.shields.io/badge/Prettier-pink" alt="Prettier">
+<img src="https://img.shields.io/badge/Netlify-black" alt="Netlify">
+</p>>
  
 `💫 GitHub Analytics:`
 <p>
