@@ -7,8 +7,6 @@
 
 <br>
 
-<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/5e29a678-2370-4d39-94df-fcdc7e9211d8"/>
-
 
 `🚀 About Me:`
 - 🔭 I’m currently working on **Full stack web devlopment**
@@ -28,7 +26,7 @@
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
->>> 
+>>> <img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/5e29a678-2370-4d39-94df-fcdc7e9211d8"/>
 
 
 `💻 Languages and Tools:`
