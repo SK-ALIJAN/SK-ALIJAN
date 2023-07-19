@@ -21,7 +21,7 @@
 <a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=TEYr8ETaIfBJ&format=png" alt="SK_ALIJAN123" height="40" width="40" /></a>
 - 😃Fun fact: I once answered the world’s oldest question with a single line of JavaScript
   
-  // Which came first: the chicken or the egg?
+  // Which came first: the chicken or the egg? <br>
   console.log(["🥚", "🐣", "🐥", "🐔"].sort())
   >>> ["🐔", "🐣", "🐥", "🥚"];
   >>> 
