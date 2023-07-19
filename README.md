@@ -1,5 +1,8 @@
-<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/420d3448-f343-42bb-92d4-fd06500a649c"/>
-<p></p>
+<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/420d3448-f343-42bb-92d4-fd06500a649c" height="200"/>
+<br>
+<p>
+  Hi there, I'm Alijan, your go-to Full Stack Web Developer with a passion for crafting exceptional digital experiences. With expertise in JavaScript, React, UI design, and Node.js, I bring innovation and functionality together to create cutting-edge web solutions that exceed expectations. Let's turn your ideas into reality!
+</p>
 
 <br>
 `🚀 About Me:`
