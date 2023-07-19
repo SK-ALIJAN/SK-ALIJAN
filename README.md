@@ -1,4 +1,5 @@
-<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/420d3448-f343-42bb-92d4-fd06500a649c" />
+https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/4ee31adb-13e8-4f21-ade4-446385dfdc76
+
 <br>
 <br>
 <p>
