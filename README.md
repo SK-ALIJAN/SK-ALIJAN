@@ -40,14 +40,6 @@
   <img src="https://image.shutterstock.com/image-vector/node-js-260nw-1021480693.jpg" height="40" width="40" alt="Nodejs"/>  &nbsp; &nbsp; &nbsp;
   <img src="https://img.icons8.com/?size=1x&id=74402&format=png" height="40" width="40" alt="Mongodb"/>  &nbsp; &nbsp; &nbsp;
 </p>
- 
-`💫 GitHub Analytics:`
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-alijan&show_icons=true&locale=en&layout=compact" alt="sk-alijan" width="100%" height="300"/> </p>
-<p>
-  <img  src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan"  />
-</p>
 
 <br>
 
@@ -60,6 +52,16 @@
 <img src="https://img.shields.io/badge/Netlify-blue" alt="Netlify">
 </p>
 
+
+<br>
+ 
+`💫 GitHub Analytics:`
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-alijan&show_icons=true&locale=en&layout=compact" alt="sk-alijan" width="100%" height="300"/> </p>
+<p>
+  <img  src="https://github-readme-stats.vercel.app/api?username=sk-alijan&show_icons=true&locale=en" alt="sk-alijan"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan"  />
+</p>
 
 <br>
 
