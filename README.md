@@ -45,12 +45,12 @@
 
 `💻 Things I code with :`
 <p>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-VS_CODE-teal" alt="Visual Studio Code - VS CODE"> &nbsp; &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Git-red" alt="Git"> &nbsp; &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Npm-yellow" alt="Npm"> &nbsp; &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Prettier-pink" alt="Prettier"> &nbsp; &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/Netlify-blue" alt="Netlify"> &nbsp; &nbsp; &nbsp;
-</p>>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-VS_CODE-teal" alt="Visual Studio Code - VS CODE"> 
+<img src="https://img.shields.io/badge/Git-red" alt="Git"> &nbsp; 
+<img src="https://img.shields.io/badge/Npm-yellow" alt="Npm"> &nbsp; 
+<img src="https://img.shields.io/badge/Prettier-pink" alt="Prettier">
+<img src="https://img.shields.io/badge/Netlify-blue" alt="Netlify">
+</p>
  
 `💫 GitHub Analytics:`
 <p>
