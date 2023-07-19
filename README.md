@@ -1,4 +1,4 @@
-https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/4ee31adb-13e8-4f21-ade4-446385dfdc76
+<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/a5124f67-5673-4bd5-8a53-1e23b65adc51"/>
 
 <br>
 <br>
