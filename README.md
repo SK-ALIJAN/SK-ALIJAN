@@ -19,15 +19,6 @@
 <a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="alijan786" height="40" width="40" /></a>
 <a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="40" width="40" /></a>
 <a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=TEYr8ETaIfBJ&format=png" alt="SK_ALIJAN123" height="40" width="40" /></a>
-
-- 😃Fun fact: I once answered the world’s oldest question with a single line of JavaScript
-
-// Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-
->>> ["🐔", "🐣", "🐥", "🥚"];
->>> 
-
 <img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/5e29a678-2370-4d39-94df-fcdc7e9211d8"/>
 
 `💻 Languages and Tools:`
