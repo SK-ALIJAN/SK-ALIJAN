@@ -20,14 +20,12 @@
 <a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="40" width="40" /></a>
 <a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=TEYr8ETaIfBJ&format=png" alt="SK_ALIJAN123" height="40" width="40" /></a>
 - 😃Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+  // Which came first: the chicken or the egg?
+  console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+  >>> ["🐔", "🐣", "🐥", "🥚"];
+  >>> 
 
-// Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-
->>> ["🐔", "🐣", "🐥", "🥚"];
->>> 
-
-
+<br>
 `💻 Languages and Tools:`
 <p>
   <img src="https://img.icons8.com/?size=1x&id=20909&format=png" height="40" width="40" alt="HTML"/>  &nbsp; &nbsp; &nbsp;
