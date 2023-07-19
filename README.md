@@ -1,5 +1,5 @@
-<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/4d5c64d6-0566-42de-b31b-f67d76830150"/>
-<h3 align="center">A Passionate full Stack Web Developer </h3>
+<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/420d3448-f343-42bb-92d4-fd06500a649c"/>
+<p></p>
 `🚀 About Me:`
 - 🔭 I’m currently working on **Full stack web devlopment**
 - 👀 I’m interested in full stack web devlopment
