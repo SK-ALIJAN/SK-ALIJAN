@@ -1,7 +1,5 @@
-<p align="center"> <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"></p>
-<h1 align="center">Hi 🙋‍♂️, I'm Sk Alijan</h1>
+<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/4d5c64d6-0566-42de-b31b-f67d76830150"/>
 <h3 align="center">A Passionate full Stack Web Developer </h3>
-
 `🚀 About Me:`
 - 🔭 I’m currently working on **Full stack web devlopment**
 - 👀 I’m interested in full stack web devlopment
