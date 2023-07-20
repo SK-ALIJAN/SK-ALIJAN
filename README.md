@@ -3,7 +3,7 @@
 <br>
 <br>
 <p>
-  Hi there, I'm Alijan, your go-to Full Stack Web Developer with a passion for crafting exceptional digital experiences. With expertise in JavaScript, React, and Node.js, I bring innovation and functionality together to create cutting-edge web solutions that exceed expectations. Let's turn your ideas into reality!
+ Hello, I'm Alijan, your go-to Full Stack Web Developer passionate about crafting exceptional digital experiences. With expertise in JavaScript, React, and Node.js, I turn ideas into cutting-edge web solutions. Let's make your vision a reality!
 </p>
 
 <br>
