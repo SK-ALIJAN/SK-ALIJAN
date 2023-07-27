@@ -16,7 +16,7 @@
 - 🤔 I'm looking for JOB
 - 😃 Pronouns: he/his
 - 💻 My portfolio
-  <a href="https://sk-alijan.github.io/my-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1463/1463905.png" alt="Portfolio" height="40" width="40" /></a>
+  <a href="https://sk-alijan.github.io/my-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2170/2170849.png" alt="Portfolio" height="40" width="40" /></a>
 - 📫 How to reach me
 <a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="alijan786" height="40" width="40" /></a>
 <a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="40" width="40" /></a>
@@ -66,7 +66,7 @@
 
 `🤝 Connect with me:`
  &nbsp; &nbsp; &nbsp;
-<a href="https://sk-alijan.github.io/my-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1463/1463905.png" alt="Portfolio" height="50" width="50" /></a>
+<a href="https://sk-alijan.github.io/my-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2170/2170849.png" alt="Portfolio" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="alijan786" height="40" width="40" /></a>
 <a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="40" width="40" /></a>
 <a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="SK_ALIJAN123" height="40" width="40" /></a>
