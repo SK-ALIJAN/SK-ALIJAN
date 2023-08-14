@@ -1,10 +1,9 @@
-<img src="https://github.com/SK-ALIJAN/SK-ALIJAN/assets/106768235/7ee36193-5e83-4654-b6ea-cd45d89efa52"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106768235/254748913-7ee36193-5e83-4654-b6ea-cd45d89efa52.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<br>
-<br>
-<p>
- Hello, I'm Alijan, your go-to Full Stack Web Developer passionate about crafting exceptional digital experiences. With expertise in JavaScript, React, and Node.js, I turn ideas into cutting-edge web solutions. Let's make your vision a reality!
-</p>
+#### *Hello, I'm Alijan, your go-to Full Stack Web Developer passionate about crafting exceptional digital experiences. With expertise in JavaScript, React, and Node.js, I turn ideas into cutting-edge web solutions. Let's make your vision a reality!*  
 
 <br>
 
