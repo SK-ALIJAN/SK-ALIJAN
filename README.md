@@ -3,7 +3,7 @@
 </div>  
   
 
-#### *Hello, I'm Alijan, your go-to Full Stack Web Developer passionate about crafting exceptional digital experiences. With expertise in JavaScript, React, and Node.js, I turn ideas into cutting-edge web solutions. Let's make your vision a reality!*  
+##### *Hello, I'm Alijan, a Full Stack Developer who loves building projects.I am equipped with a variety of technologies and tools to help me build the best possible product. I am Result-oriented full-stack web developer, passionate about developing user-friendly web applications using MERN Stack. I enjoy developing websites and a keen interest in solving problems and coming up with effective solutions.*  
 
 <br>
 
