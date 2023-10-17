@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/106768235/254748913-7ee36193-5e83-4654-b6ea-cd45d89efa52.gif" align="center" style="width: 100%" />
 </div>  
   
-
+<br>
  Hello, I'm Alijan, a Full Stack Developer who loves building projects.I am equipped with a variety of technologies and tools to help me build the best possible product. I am Result-oriented full-stack web developer, passionate about developing user-friendly web applications using MERN Stack. I enjoy developing websites and a keen interest in solving problems and coming up with effective solutions. 
 
 <br>
