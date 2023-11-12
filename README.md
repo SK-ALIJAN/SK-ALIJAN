@@ -5,17 +5,17 @@
 <br>
  Hello, I'm Alijan, a Full Stack Developer who loves building projects.I am equipped with a variety of technologies and tools to help me build the best possible product. I am Result-oriented full-stack web developer, passionate about developing user-friendly web applications using MERN Stack. I enjoy developing websites and a keen interest in solving problems and coming up with effective solutions. 
 
-<br>
+<br> 
 
+****************************************************************************************
 
 `🚀 About Me:`
-- 🔭 I’m currently working on **Full stack web devlopment**
-- 👀 I’m interested in full stack web devlopment
-- 🌱 I’m currently learning at Masai School
+- ✨ Having 1 year coding experience
+- 👀 I’m interested in **Full stack web devlopment**
 - 🤔 I'm looking for JOB
 - 😃 Pronouns: he/his
 - 💻 My portfolio
-  <a href="https://sk-alijan.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" alt="Portfolio" height="40" width="40" /></a>
+  <a href="https://sk-alijan.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3059/3059997.png" alt="Portfolio" height="40" width="40" /></a>
 - 📫 How to reach me
 <a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="alijan786" height="40" width="40" /></a>
 <a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="40" width="40" /></a>
@@ -25,7 +25,8 @@
   // Which came first: the chicken or the egg? <br>
   console.log(["🥚", "🐣", "🐥", "🐔"].sort()) <br>
   Output :  ["🐔", "🐣", "🐥", "🥚"];
-<br>
+
+****************************************************************************************
 
 `💻 Languages and Tools:`
 <p>
@@ -40,7 +41,7 @@
   <img src="https://img.icons8.com/?size=1x&id=74402&format=png" height="40" width="40" alt="Mongodb"/>  &nbsp; &nbsp; &nbsp;
 </p>
 
-<br>
+****************************************************************************************
 
 `🔭 Things I code with :`
 <p>
@@ -49,10 +50,12 @@
 <img src="https://img.shields.io/badge/Npm-yellow" alt="Npm"> &nbsp; 
 <img src="https://img.shields.io/badge/Prettier-pink" alt="Prettier">
 <img src="https://img.shields.io/badge/Netlify-blue" alt="Netlify">
+<img src="https://img.shields.io/badge/Vercel-blue" alt="Vercel">
+<img src="https://img.shields.io/badge/Postman-red" alt="Postman">
+<img src="https://img.shields.io/badge/MongodbCompass-green" alt="MongodbCompass">
 </p>
 
-
-<br>
+****************************************************************************************
  
 `💫 GitHub Analytics:`
 <p>
@@ -61,17 +64,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan"  />
 </p>
 
-<br>
+****************************************************************************************
 
 `🤝 Connect with me:`
  &nbsp; &nbsp; &nbsp;
-<a href="https://sk-alijan.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" alt="Portfolio" height="40" width="40" /></a>
+<a href="https://sk-alijan.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3059/3059997.png" alt="Portfolio" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/alijan786" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="alijan786" height="40" width="40" /></a>
 <a href="https://fb.com/alijan8695" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=118497&format=png" alt="alijan8695" height="40" width="40" /></a>
 <a href="https://instagram.com/SK_ALIJAN123" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="SK_ALIJAN123" height="40" width="40" /></a>
 
- 
-
+****************************************************************************************
 
 
 <h3 align ="center">Thank you for visiting here 🥰</h3>
@@ -79,6 +81,6 @@
 
 
 <!---
-SK-ALIJAN/SK-ALIJAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SK-ALIJAN/SK-ALIJAN is a ✨ 🔭 special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
