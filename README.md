@@ -64,7 +64,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-alijan&" alt="sk-alijan"  />
 </p>
 
-****************************************************************************************
+---
+
+
+[![Alijan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-alijan&theme=github-compact)](https://github.com/SK-ALIJAN)
+
+![](./profile-3d-contrib/profile-season-animate.svg)
+
+
 
 `🤝 Connect with me:`
  &nbsp; &nbsp; &nbsp;
