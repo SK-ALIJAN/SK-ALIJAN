@@ -3,14 +3,14 @@
   <p><b>Full Stack Developer | MERN Stack | React Native</b></p>
 
   <p>
-    📧 <a href="mailto:alijan8685@gmail.com">alijan8685@gmail.com</a> &nbsp; | &nbsp;
-    📞 +91 86545 43740 &nbsp; | &nbsp;
+    📧 <a href="mailto:alijan8685@gmail.com">alizaan8695@gmail.com</a> &nbsp; | &nbsp;
+    📞 +91 8695453740 &nbsp; | &nbsp;
     📍 East Medinipur, West Bengal
   </p>
 
   <p>
     <a href="https://github.com/SK-ALIJAN">GitHub</a> •
-    <a href="https://sk-alijan.github.io/">Portfolio</a> •
+    <a href="https://portfolio-phi-eosin-95.vercel.app/">Portfolio</a> •
     <a href="https://linkedin.com/in/alijan786">LinkedIn</a>
   </p>
 </div>
@@ -25,22 +25,21 @@
     pause=1000&
     center=true&
     vCenter=true&
-    width=800&
-    lines=Full+Stack+Developer;MERN+Stack+Specialist;React+Native+Developer;Building+Scalable+Applications;Open+to+Opportunities"
+    width=850&
+    lines=Full+Stack+Developer;MERN+Stack+Specialist;React+Native+Developer;Building+Scalable+Applications;Open+to+Job+Opportunities"
   />
 </p>
 
 ---
 
-## 🧠 Summary
+## 🧠 Professional Summary
 
-Web Developer with **1.5+ years of experience** specializing in the **MERN stack**.  
-Skilled in building **dynamic, scalable applications** for both **web and mobile** platforms.
+Result-oriented **Full Stack Developer** with **1.5+ years of hands-on experience** specializing in the **MERN Stack** and **React Native**.  
+Experienced in building **scalable, high-performance web and mobile applications**, collaborating with cross-functional teams, and delivering clean, maintainable code.
 
-- Strong experience with **React.js & React Native**
-- Problem-solving mindset with attention to detail
-- Passionate about writing clean, maintainable code
-- Continuously learning modern technologies and best practices
+- Strong expertise in **frontend & backend development**
+- Experience with **REST APIs, payments, real-time features**
+- Passionate about problem-solving and continuous improvement
 
 ---
 
@@ -54,18 +53,19 @@ Skilled in building **dynamic, scalable applications** for both **web and mobile
 
 **Backend**
 - Node.js, Express.js
-- REST APIs
+- RESTful APIs
 
 **Databases**
 - MongoDB
 - PostgreSQL
 - MySQL
+- SQLite
 
 **Tools & Platforms**
 - Git & GitHub
 - Postman
 - Firebase
-- Stripe
+- Stripe, Razorpay
 - WebSocket
 - Supabase
 
@@ -77,11 +77,11 @@ Skilled in building **dynamic, scalable applications** for both **web and mobile
 **Weaver Web Solutions Pvt. Ltd**  
 📅 *July 2025 – Present*
 
-- Developed mobile applications using **React Native, Redux, and TypeScript**
-- Implemented **end-to-end functionality** based on client requirements
-- Designed and optimized backend APIs
-- Collaborated with cross-functional teams to deliver high-quality products
-- Integrated third-party services and handled performance improvements
+- Developing mobile applications using **React Native, Redux, and TypeScript**
+- Implementing full app flows based on business requirements
+- Designing and integrating backend APIs
+- Collaborating with designers, backend teams, and QA
+- Optimizing performance and improving code quality
 
 ---
 
@@ -89,63 +89,45 @@ Skilled in building **dynamic, scalable applications** for both **web and mobile
 **BlueHorse Software Solutions Pvt. Ltd**  
 📅 *April 2024 – April 2025*
 
-- Built and maintained web applications using **Next.js and Node.js**
-- Developed reusable components and optimized UI performance
-- Collaborated with designers and team members to ensure smooth delivery
-- Improved application scalability and maintainability
+- Developed scalable web applications using **Next.js and Node.js**
+- Built reusable components and optimized UI performance
+- Worked closely with designers and team members to ensure smooth delivery
+- Improved application maintainability and performance
 
 ---
 
 ## 📦 Company-Affiliated Projects
 
 ### 🏏 SoftBall Mobile App
-- Built a softball-based mobile app using **React Native, SQLite, Supabase**
-- Features: lineup creation, player management, smooth gameplay workflows
+- Mobile application for softball players and teams
+- Features: lineup creation, player management, smooth game workflows  
+- **Tech Stack:** React Native, SQLite, Supabase
 
 ---
 
 ### 🛒 GetSpecific
-- E-commerce platform to post products and services
-- **Web + Mobile App**
+- E-commerce platform for posting and managing products & services
+- Web + Mobile application
 - Integrated **Stripe payment gateway**
-- Stack: React.js, Node.js, Firebase
-
----
-
-### 🚚 Bharat Taxi
-- Cross-platform taxi booking application
-- Real-time ride booking & tracking
-- Stack: React Native, Node.js, PostgreSQL
+- **Tech Stack:** React.js, Node.js, Firebase
 
 ---
 
 ### 🎓 Mentor Deck
-- Platform for students to explore mentors, book sessions, and track bookings
-- Admin panel for monitoring sessions and payments
-- Stack: React.js, Node.js, Express.js, WebSocket, Stripe, Razorpay
+- Platform for students to explore mentors and book sessions
+- Admin dashboard for managing bookings and payments
+- **Tech Stack:** React.js, Node.js, Express.js, WebSocket, Stripe, Razorpay
 
 ---
 
 ### 💬 D2C Stories
-- Admin dashboard to manage brand listings
-- Real-time chat using **WebSocket**
-- Stack: React.js, Node.js, MySQL
+- Admin dashboard for managing brand listings
+- Real-time chat system
+- **Tech Stack:** React.js, Node.js, MySQL, WebSocket
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-📅 *2025 – 2028*  
-Uttaranchal University
-
-**Full Stack Web Development**  
-📅 *2022 – 2023*  
-Masai School
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SK-ALIJAN&show_icons=true&hide_border=true" height="160"/>
@@ -166,10 +148,10 @@ Masai School
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://sk-alijan.github.io/">
+  <a href="https://portfolio-phi-eosin-95.vercel.app/">
     <img src="https://cdn-icons-png.flaticon.com/128/3059/3059997.png" width="40"/>
   </a>
   <a href="https://linkedin.com/in/alijan786">
@@ -182,4 +164,4 @@ Masai School
 
 ---
 
-<h3 align="center">✨ Thanks for visiting — Open to opportunities & collaborations ✨</h3>
+<h3 align="center">✨ Open to opportunities · Let’s build something impactful ✨</h3>
