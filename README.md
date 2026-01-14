@@ -17,21 +17,6 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=18&
-    pause=1000&
-    center=true&
-    vCenter=true&
-    width=850&
-    lines=Full+Stack+Developer;MERN+Stack+Specialist;React+Native+Developer;Building+Scalable+Applications;Open+to+Job+Opportunities"
-  />
-</p>
-
----
-
 ## 🧠 Professional Summary
 
 Result-oriented **Full Stack Developer** with **2+ years of hands-on experience** specializing in the **MERN Stack** and **React Native**.  
