@@ -34,7 +34,7 @@
 
 ## 🧠 Professional Summary
 
-Result-oriented **Full Stack Developer** with **1.5+ years of hands-on experience** specializing in the **MERN Stack** and **React Native**.  
+Result-oriented **Full Stack Developer** with **2+ years of hands-on experience** specializing in the **MERN Stack** and **React Native**.  
 Experienced in building **scalable, high-performance web and mobile applications**, collaborating with cross-functional teams, and delivering clean, maintainable code.
 
 - Strong expertise in **frontend & backend development**
