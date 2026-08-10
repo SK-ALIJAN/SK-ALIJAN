@@ -10,7 +10,7 @@
 
   <p>
     <a href="https://github.com/SK-ALIJAN">GitHub</a> •
-    <a href="https://portfolio-phi-eosin-95.vercel.app/">Portfolio</a> •
+    <a href="https://sk-alijan.vercel.app/">Portfolio</a> •
     <a href="https://linkedin.com/in/alijan786">LinkedIn</a>
   </p>
 </div>
