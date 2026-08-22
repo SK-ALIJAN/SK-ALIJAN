@@ -7,16 +7,17 @@
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20React%20Native-blue" />
   <img src="https://img.shields.io/badge/Open%20To-Work-ff69b4" />
+  <img src="https://img.shields.io/badge/Remote-Flexible-important" />
 </p>
 
 <div align="center">
   <h2>🚀 SK ALIJAN</h2>
-  <p><b>Full Stack Developer | MERN Stack | React Native</b></p>
+  <p><b>Full Stack Developer | MERN Stack Developer | React Native Developer | Web & Mobile App Developer</b></p>
 
   <p>
     📧 <a href="mailto:alizaan8695@gmail.com">alizaan8695@gmail.com</a> &nbsp; | &nbsp;
     📞 +91 8695453740 &nbsp; | &nbsp;
-    📍 East Medinipur, West Bengal
+    📍 East Medinipur, West Bengal, India
   </p>
 
   <p>
@@ -33,8 +34,8 @@
 > **Result-oriented Full Stack Developer** with **2+ years of hands-on experience** specializing in the **MERN Stack** and **React Native**.  
 > I build **scalable, high-performance web and mobile applications** that solve real-world problems — from idea to deployment.
 
-✅ **Frontend & Backend Mastery**  
-✅ **REST APIs, Payments, Real-time Features**  
+✅ **Frontend & Backend Development**  
+✅ **REST APIs, Payment Gateway Integration, Real-time Features**  
 ✅ **Clean, Maintainable, & Scalable Code**  
 ✅ **Passionate Problem-Solver & Continuous Learner**  
 
@@ -42,7 +43,7 @@
 
 ## 🛠️ Tech Arsenal
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -52,7 +53,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=api&logoColor=white)
@@ -80,8 +81,8 @@
 ### 🚀 Software Developer  
 **Weaver Web Solutions Pvt. Ltd**  
 📅 *July 2025 – Present*  
-- 📱 Building cross-platform mobile apps with **React Native, Redux, and TypeScript**
-- 🔌 Designing & integrating robust backend APIs
+- 📱 Building **cross-platform mobile applications** with **React Native, Redux, and TypeScript**
+- 🔌 Designing & integrating **robust backend APIs** with Node.js & Express.js
 - 🤝 Collaborating with designers, backend teams, and QA for seamless delivery
 - ⚡ Optimizing performance, reducing load times by **30%**
 
@@ -90,7 +91,7 @@
 ### 💻 Software Developer  
 **BlueHorse Software Solutions Pvt. Ltd**  
 📅 *April 2024 – April 2025*  
-- 🌐 Developed scalable web apps using **Next.js and Node.js**
+- 🌐 Developed **scalable web applications** using **Next.js and Node.js**
 - 🧩 Built reusable components & optimized UI for **better UX**
 - 🚀 Improved app maintainability and **performance by 25%**
 
@@ -99,20 +100,20 @@
 ## 📦 Featured Projects
 
 ### 🏏 SoftBall Mobile App
-> **For players & teams** — lineup creation, player management, smooth game workflows  
-**Tech:** React Native, SQLite, Supabase
+> **Sports Management Mobile App** — For players & teams, lineup creation, player management, smooth game workflows  
+**Tech Stack:** React Native, SQLite, Supabase
 
 ### 🛒 GetSpecific
-> **E-commerce platform** — post & manage products/services, integrated **Stripe payments**  
-**Tech:** React.js, Node.js, Firebase
+> **E-commerce Web & Mobile Platform** — Post & manage products/services, integrated **Stripe payments**  
+**Tech Stack:** React.js, Node.js, Firebase
 
 ### 🎓 Mentor Deck
-> **Mentor booking platform** — students explore mentors, book sessions, admin dashboard  
-**Tech:** React.js, Node.js, Express.js, WebSocket, Stripe, Razorpay
+> **Mentorship & Learning Platform** — Students explore mentors, book sessions, admin dashboard  
+**Tech Stack:** React.js, Node.js, Express.js, WebSocket, Stripe, Razorpay
 
 ### 💬 D2C Stories
-> **Admin dashboard** — manage brand listings, real-time chat system  
-**Tech:** React.js, Node.js, MySQL, WebSocket
+> **Admin Dashboard & Brand Management** — Manage brand listings, real-time chat system  
+**Tech Stack:** React.js, Node.js, MySQL, WebSocket
 
 ---
 
