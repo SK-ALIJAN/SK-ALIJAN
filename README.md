@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20React%20Native-blue" />
   <img src="https://img.shields.io/badge/Open%20To-Work-ff69b4" />
   <img src="https://img.shields.io/badge/Remote-Flexible-important" />
+  <img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-00FF00" />
+  <img src="https://img.shields.io/badge/Fuel-Coffee%20%E2%98%95-FFD700" />
 </p>
 
 <div align="center">
@@ -167,4 +169,80 @@
 
 ---
 
+## 🎮 Fun Zone
+
+<details>
+<summary><b>🎲 Click to See Fun Facts!</b></summary>
+<br>
+
+> **😄 Random Fun Facts About Me:**
+> - 🎧 **Coding Playlist:** Lo-fi beats & synthwave (it just hits different!)
+> - ☕ **Coffee Count:** 3+ cups a day (developer fuel)
+> - 🌙 **Night Owl:** Most productive after midnight
+> - 🎯 **Duck Debugging:** Yes, I talk to rubber ducks 🦆
+> - 🎮 **Gamer:** Sometimes I take a break to game
+> - 🧩 **Puzzle Lover:** Algorithm challenges are fun (I swear!)
+> - 🚀 **Space Enthusiast:** Astronomy nerd inside
+
+</details>
+
+<br>
+
+<details>
+<summary><b>💡 Click for My Coding Superpowers!</b></summary>
+<br>
+
+> **⚡ Superpowers:**
+> - 🧠 **Bug Hunter Extraordinaire** — I find bugs before they find me
+> - 🎨 **Pixel Perfectionist** — The CSS is ALWAYS perfectly aligned
+> - 🚀 **Speed Demon** — Ships features before deadlines
+> - 🔮 **Future Predictor** — I see edge cases before they happen
+> - 🎭 **Feature Transformer** — Business dreams → Production reality
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🚀 Click for Daily Motivational Quote!</b></summary>
+<br>
+
+> **"Code is like humor. When you have to explain it, it's bad."**  
+> — Cory House
+> 
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+> 
+> **"The only way to learn a new programming language is by writing programs in it."**  
+> — Dennis Ritchie
+
+</details>
+
+---
+
+## 🎵 Currently Vibing To
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Mood-Coding%20%F0%9F%92%BB-00FF00" />
+  <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-FFD700" />
+  <img src="https://img.shields.io/badge/Time-Zone-IST%20%28UTC%2B5%3A30%29-blue" />
+</p>
+
+---
+
+## 🏁 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Code%20Lines-Written%3A%20Too%20Many%20To%20Count-ff69b4" />
+  <img src="https://img.shields.io/badge/☕%20Coffee%20Consumed%3A%20Infinite-FFD700" />
+  <img src="https://img.shields.io/badge/🚀%20Bugs%20Fixed%3A%20Countless-brightgreen" />
+  <img src="https://img.shields.io/badge/🌟%20Features%20Shipped%3A%205%2B-blue" />
+</p>
+
+---
+
 <h3 align="center">✨ Open to opportunities · Let’s build something impactful ✨</h3>
+
+<p align="center">
+  <sub>⚠️ **Warning:** This developer is powered by coffee, curiosity, and an obsession with clean code! ☕💻</sub>
+</p>
